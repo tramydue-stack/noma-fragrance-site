@@ -1,0 +1,306 @@
+{
+  "brand": {
+    "name": "NOMA Fragrance",
+    "tagline": "Vietnamese memories, written through scent.",
+    "spirit": ["Poetic", "Minimal", "Rooted"],
+    "description": "Noma là thương hiệu nước hoa hiện đại lấy cảm hứng từ ký ức, văn hóa và những mùi hương thân thuộc của Việt Nam. Noma kết hợp giữa “Nom” trong chữ Nôm và “A” trong Aroma, thể hiện mong muốn dùng hương thơm như một ngôn ngữ mới để kể lại những cảm xúc thân thuộc.",
+    "mission": "Tạo ra những mùi hương hiện đại lấy cảm hứng từ ký ức Việt Nam, giúp người dùng cảm nhận được vẻ đẹp của sự tinh tế, nữ tính và gần gũi trong từng khoảnh khắc; đưa mùi hương bản địa đến gần hơn với người trẻ qua một ngôn ngữ mới tối giản và nghệ thuật hơn.",
+    "vision": "Trở thành thương hiệu nước hoa Việt Nam hiện đại, có bản sắc riêng và có khả năng kết nối sâu sắc thông qua cảm xúc và phong cách sống.",
+    "logos": {
+      "wordmark": "/assets/logo-noma.png",
+      "monogram": "/assets/logo-don-noma.png",
+      "guidelines": "/assets/noma-brand-guidelines.png"
+    }
+  },
+  "navigation": [
+    { "label": "Trang chủ", "path": "/" },
+    { "label": "Về NOMA", "path": "/about" },
+    { "label": "Bộ sưu tập", "path": "/collection" },
+    { "label": "Sản phẩm", "path": "/products" },
+    { "label": "Tư vấn mùi hương", "path": "/advisory" },
+    { "label": "Chính sách", "path": "/policies" },
+    { "label": "Liên hệ", "path": "/contact" }
+  ],
+  "homepage": {
+    "hero": {
+      "image": "/assets/bia-noma.png",
+      "primaryTitle": "Noma Fragrance",
+      "secondaryTitle": "Vietnamese memories, written through scent. / Poetic. Minimal. Rooted.",
+      "body": "Noma là thương hiệu nước hoa hiện đại lấy cảm hứng từ ký ức, văn hóa và những mùi hương thân thuộc của Việt Nam.",
+      "cta": "Khám phá bộ sưu tập"
+    },
+    "brandIntro": {
+      "primaryTitle": "Ngôn ngữ của mùi hương",
+      "secondaryTitle": "Noma — Giao thoa giữa chữ Nôm và Aroma",
+      "body": "Tên gọi Noma được tạo nên từ “Nom” trong chữ Nôm – hệ chữ viết do người Việt sáng tạo, kết hợp cùng “A” trong Aroma – hương thơm. Với Noma, nước hoa giống như một ngôn ngữ mới: không viết bằng con chữ, mà viết bằng mùi hương, cảm xúc và ký ức.",
+      "cta": "Tìm hiểu về NOMA"
+    },
+    "collectionFeature": {
+      "image": "/assets/bia-noma.png",
+      "primaryTitle": "Whispers of Home",
+      "secondaryTitle": "Bộ sưu tập nước hoa đầu tiên từ NOMA",
+      "body": "Bộ sưu tập lấy cảm hứng từ những mùi hương gắn với ký ức Việt Nam. Tên gọi “Whispers of Home” gợi cảm giác về những lời thì thầm của quê nhà: không ồn ào, không phô trương, nhưng đủ để chạm vào cảm xúc.",
+      "cta": "Khám phá 5 mùi hương"
+    },
+    "quickShop": {
+      "primaryTitle": "Những sắc thái ký ức",
+      "secondaryTitle": "Khám phá mùi hương dành cho bạn"
+    },
+    "trustServices": {
+      "primaryTitle": "Trải nghiệm chỉn chu từ NOMA",
+      "secondaryTitle": "Gửi trao trọn vẹn tinh thần thương hiệu",
+      "body": "Mỗi đơn hàng đều được chuẩn bị cẩn thận, bọc chống sốc và cố định trong hộp giao hàng để hạn chế tối đa rủi ro đổ vỡ.",
+      "items": [
+        { "title": "Đóng gói tiêu chuẩn an toàn" },
+        { "title": "Giao hàng toàn quốc" },
+        { "title": "Hộp quà tặng trang nhã (+39.000 VNĐ)" }
+      ],
+      "cta": "Xem chính sách vận chuyển"
+    }
+  },
+  "about": {
+    "essence": {
+      "primaryTitle": "Về NOMA Fragrance",
+      "secondaryTitle": "Vietnamese memories, written through scent.",
+      "body": "Noma Fragrance là thương hiệu nước hoa hiện đại lấy cảm hứng từ ký ức và bản sắc Việt Nam. Tên gọi Noma kết hợp giữa “Nom” trong chữ Nôm và “A” trong Aroma, thể hiện mong muốn dùng hương thơm như một ngôn ngữ mới để kể lại những cảm xúc thân thuộc."
+    },
+    "story": {
+      "primaryTitle": "Bắt đầu từ những điều thân thuộc",
+      "secondaryTitle": "Những mùi hương không phô trương nhưng có khả năng gợi nhớ mạnh mẽ",
+      "body": "Noma bắt đầu từ những mùi hương rất quen trong đời sống Việt Nam: hương sen thoảng nhẹ trong không khí, lá chanh thanh mát, khu vườn sau cơn mưa, ánh nắng trên cánh đồng mùa gặt và hương hoa cau dịu dàng trong ký ức. Từ những cảm hứng đó, Noma tạo nên các mùi hương mang tinh thần Việt Nam nhưng được thể hiện theo cách hiện đại, tối giản và phù hợp với nhịp sống hôm nay."
+    },
+    "coreValues": {
+      "primaryTitle": "Triết lý thiết kế",
+      "secondaryTitle": "Poetic. Minimal. Rooted.",
+      "values": [
+        { "title": "Poetic", "description": "Đầy chất thơ: Mỗi mùi hương là một cảm giác được kể lại bằng tầng hương mềm mại, tinh tế và đầy cảm xúc." },
+        { "title": "Minimal", "description": "Tối giản: Từ thiết kế bao bì đến cách xây dựng mùi hương đều ưu tiên sự thanh thoát, tinh gọn và dễ ứng dụng." },
+        { "title": "Rooted", "description": "Có gốc rễ: Dù mang phong cách hiện đại và quốc tế, Noma vẫn giữ bên trong mình ký ức quen thuộc, mùi hương bản địa và cảm giác gần gũi quê hương." }
+      ]
+    }
+  },
+  "collection": {
+    "primaryTitle": "Whispers of Home",
+    "secondaryTitle": "Những lời thì thầm của quê nhà",
+    "body": "Whispers of Home là bộ sưu tập đầu tiên của Noma Fragrance, lấy cảm hứng từ những mùi hương thân thuộc trong ký ức Việt Nam. Mỗi sản phẩm trong bộ sưu tập là một lát cắt cảm xúc: hương sen trong không khí, lá chanh trong khu vườn, mưa trên tán lá, ánh nắng mùa gặt và hoa cau trước hiên nhà. Tất cả sản phẩm được phát triển theo phong cách nữ tính, thanh lịch nhẹ, dễ sử dụng hằng ngày.",
+    "details": [
+      "Dòng sản phẩm: Eau de Parfum",
+      "Dung tích: 50ml / 1.7 fl. oz.",
+      "Phong cách: Premium accessible, feminine, minimal, poetic",
+      "Giá bán niêm yết đồng giá: 690.000 VNĐ / chai"
+    ],
+    "image": "/assets/bia-noma.png"
+  },
+  "products": [
+    {
+      "id": "lotus-air",
+      "name": "Lotus Air",
+      "slug": "lotus-air",
+      "shortDescription": "Mùi hương chủ đạo của bộ sưu tập Whispers of Home, lấy cảm hứng từ hương sen thoảng nhẹ trong buổi sáng. Mùi hương mang cảm giác trong trẻo, mềm mại và thanh lịch, phù hợp với những ai yêu vẻ đẹp nữ tính nhưng không muốn quá ngọt hay quá nồng.",
+      "scentMood": "Soft. Airy. Graceful.",
+      "scentStory": "Lotus Air gợi lại khoảnh khắc buổi sáng bên mặt nước yên tĩnh, khi hương sen còn rất mỏng trong không khí. Không quá truyền thống, không quá rõ mùi hoa, Lotus Air là một cách diễn giải hiện đại về sự thanh khiết: nhẹ, thoáng, sạch và có chiều sâu mềm mại.",
+      "suitableFor": "Người yêu thích mùi hoa nhẹ, thanh lịch, tinh tế và không quá phô trương. Đặc biệt hợp với sinh viên, nhân viên văn phòng trẻ hoặc những ai muốn một mùi hương “sạch nhưng có chất thơ”.",
+      "usageOccasion": "Đi học, đi làm, đi cà phê, gặp bạn bè, hẹn nhẹ ban ngày, những dịp cần sự chỉn chu nhưng không quá nổi bật.",
+      "productType": "Nước hoa cá nhân dạng xịt (Nồng độ: Eau de Parfum).",
+      "size": "50ml",
+      "price": 690000,
+      "formattedPrice": "690.000 VNĐ",
+      "productInfo": {
+        "family": "Floral Aquatic Musk (Hoa nhẹ – nước – musk sạch).",
+        "topNotes": "hơi nước trong trẻo, lá xanh non, citrus nhẹ.",
+        "heartNotes": "hoa sen, hoa trắng mềm, sương sớm.",
+        "baseNotes": "musk sạch, gỗ mềm, phấn nhẹ.",
+        "feel": "Sạch sẽ, nữ tính và nhẹ nhàng. Không gây choáng ngợp, dễ dùng ban ngày, mùa xuân, mùa hè khi thời tiết mát hoặc nóng nhẹ.",
+        "longevity": "Khoảng 4–6 giờ (tùy cơ địa, thời tiết và môi trường sử dụng).",
+        "sillage": "Nhẹ đến vừa, phù hợp không gian gần và môi trường công sở.",
+        "ingredients": "Alcohol Denat., Parfum, Aqua, vv."
+      },
+      "notes": "Mô tả mùi hương mang tính tham khảo. Cảm nhận thực tế có thể thay đổi tùy cơ địa, nhiệt độ, môi trường và cách sử dụng.",
+      "images": {
+        "hero": "/assets/lotus-air-hero.png",
+        "angle34": "/assets/lotus-air-34.png",
+        "elevated": "/assets/lotus-air-elevated.png",
+        "hand": "/assets/lotus-air-hand.png"
+      }
+    },
+    {
+      "id": "lime-leaf-memory",
+      "name": "Lime Leaf Memory",
+      "slug": "lime-leaf-memory",
+      "shortDescription": "Mùi hương tươi sáng và năng động nhất trong bộ sưu tập. Lấy cảm hứng từ lá chanh trong khu vườn Việt Nam, sản phẩm mang lại cảm giác sạch, xanh, nhẹ và đầy sức sống.",
+      "scentMood": "Fresh. Clean. Uplifting.",
+      "scentStory": "Mùi lá chanh là một mùi hương rất quen thuộc trong đời sống Việt Nam: xuất hiện trong căn bếp, khu vườn, bữa ăn và những ký ức nhỏ của gia đình. Lime Leaf Memory không tái hiện lá chanh theo cách quá nồng hay quá sắc, mà làm mềm nó bằng trà xanh, lá non và musk sạch để tạo ra một mùi hương hiện đại, dễ dùng.",
+      "suitableFor": "Người thích mùi xanh, sạch, sáng và trẻ trung. Lựa chọn tốt cho những bạn thích phong cách năng động, tối giản, không quá bánh bèo nhưng vẫn tinh tế.",
+      "usageOccasion": "Đi học, đi làm, đi dạo, sau khi tắm, những ngày nóng, những lúc cần cảm giác sạch sẽ và tươi tỉnh.",
+      "productType": "Nước hoa cá nhân dạng xịt (Nồng độ: Eau de Parfum).",
+      "size": "50ml",
+      "price": 690000,
+      "formattedPrice": "690.000 VNĐ",
+      "productInfo": {
+        "family": "Green Citrus Musk (Xanh mát – citrus – musk sạch).",
+        "topNotes": "lá chanh, vỏ chanh, citrus xanh.",
+        "heartNotes": "trà xanh nhẹ, lá non, thảo mộc mềm.",
+        "baseNotes": "musk sạch, gỗ sáng, amber nhẹ.",
+        "feel": "Tỉnh táo, gọn gàng và sạch sẽ. Không quá ngọt, không quá hoa, mang lại năng lượng tích cực. Phù hợp ban ngày, mùa hè, mùa xuân, thời tiết nóng hoặc ẩm.",
+        "longevity": "Khoảng 4–5 giờ (tùy cơ địa và môi trường).",
+        "sillage": "Nhẹ đến vừa, tạo cảm giác sạch và gần gũi.",
+        "ingredients": "Alcohol Denat., Parfum, Aqua, vv."
+      },
+      "notes": "Sắc xanh và citrus có thể tỏa rõ hơn ở thời tiết nóng. Nên xịt lượng vừa phải khi sử dụng trong không gian kín.",
+      "images": {
+        "hero": "/assets/lime-leaf-memory-hero.png",
+        "angle34": "/assets/lime-leaf-memory-34.png",
+        "elevated": "/assets/lime-leaf-memory-elevated.png",
+        "hand": "/assets/lime-leaf-memory-hand.png"
+      }
+    },
+    {
+      "id": "garden-after-rain",
+      "name": "Garden After Rain",
+      "slug": "garden-after-rain",
+      "shortDescription": "Mùi hương của sự dịu lại. Lấy cảm hứng từ khu vườn sau cơn mưa, sản phẩm gợi cảm giác lá cây còn đọng nước, không khí trong trẻo, nền đất ẩm nhẹ và hoa trắng mềm.",
+      "scentMood": "Calm. Watery. Refreshing.",
+      "scentStory": "Sau một cơn mưa, mọi thứ trong khu vườn như được làm mới. Không khí mát hơn, lá cây sạch hơn, đất ẩm hơn và hương hoa trở nên nhẹ hơn. Garden After Rain lưu giữ cảm giác ấy trong một mùi hương êm dịu, cân bằng và có chút lặng.",
+      "suitableFor": "Người thích mùi xanh ẩm, mùi sạch, mùi thiên nhiên và cảm giác thư giãn. Hợp với những người có phong cách nhẹ nhàng, trầm hơn một chút, thích sự tinh tế thay vì nổi bật.",
+      "usageOccasion": "Đi làm, đi học, đọc sách, đi cà phê, những ngày mưa, những lúc muốn cảm thấy bình tĩnh và dễ chịu.",
+      "productType": "Nước hoa cá nhân dạng xịt (Nồng độ: Eau de Parfum).",
+      "size": "50ml",
+      "price": 690000,
+      "formattedPrice": "690.000 VNĐ",
+      "productInfo": {
+        "family": "Green Watery Floral (Xanh ẩm – nước – hoa trắng).",
+        "topNotes": "lá ướt, hơi nước, green notes.",
+        "heartNotes": "hoa trắng nhẹ, cỏ mềm, vườn sau mưa.",
+        "baseNotes": "đất ẩm nhẹ, musk sạch, gỗ mềm.",
+        "feel": "Bình yên, thư giãn và rất gần thiên nhiên. Có chiều sâu riêng nhưng vẫn nhẹ và dễ dùng. Thích hợp ban ngày hoặc chiều tối, mùa mưa, mùa xuân, thời tiết mát.",
+        "longevity": "Khoảng 5–6 giờ (tùy cơ địa).",
+        "sillage": "Vừa phải, gần da, tạo cảm giác riêng tư và thư giãn.",
+        "ingredients": "Alcohol Denat., Parfum, Aqua, vv."
+      },
+      "notes": "Mùi hương có sắc xanh ẩm và watery, phù hợp với người thích cảm giác nhẹ nhàng, sạch và không quá ngọt.",
+      "images": {
+        "hero": "/assets/garden-after-rain-hero.png",
+        "angle34": "/assets/garden-after-rain-34.png",
+        "elevated": "/assets/garden-after-rain-elevated.png",
+        "hand": "/assets/garden-after-rain-hand.png"
+      }
+    },
+    {
+      "id": "harvest-light",
+      "name": "Harvest Light",
+      "slug": "harvest-light",
+      "shortDescription": "Mùi hương ấm áp nhất trong bộ sưu tập Whispers of Home. Lấy cảm hứng từ ánh nắng mùa gặt, rơm khô và sắc vàng của cánh đồng, sản phẩm mang cảm giác dịu, gần gũi và an yên.",
+      "scentMood": "Warm. Comforting. Sunlit.",
+      "scentStory": "Harvest Light bắt đầu từ ký trường về một buổi chiều cuối mùa gặt: ánh nắng vàng, rơm khô, gió nhẹ và cảm giác bình yên của làng quê. Đây không phải một mùi hương nồng hay ngọt đậm, mà là một sắc hương ấm nhẹ, giống như nắng còn vương trên áo.",
+      "suitableFor": "Người thích mùi ấm nhẹ, không quá ngọt, không quá gỗ nặng. Lựa chọn tốt cho những ai yêu cảm giác an yên, thanh lịch và có chiều sâu.",
+      "usageOccasion": "Đi làm, đi chơi nhẹ, buổi chiều, buổi hẹn tối nhẹ, những ngày thời tiết mát hoặc se lạnh.",
+      "productType": "Nước hoa cá nhân dạng xịt (Nồng độ: Eau de Parfum).",
+      "size": "50ml",
+      "price": 690000,
+      "formattedPrice": "690.000 VNĐ",
+      "productInfo": {
+        "family": "Warm Hay Soft Woods (Rơm khô – nắng ấm – gỗ mềm).",
+        "topNotes": "nắng ấm, bergamot nhẹ, hạt ngũ cốc khô.",
+        "heartNotes": "rơm khô, hoa khô mềm, sắc vàng mùa gặt.",
+        "baseNotes": "gỗ mềm, amber nhẹ, musk ấm.",
+        "feel": "Ấm, dịu, gần gũi và hoài niệm. Trưởng thành hơn, sâu hơn, phù hợp với chiều, tối nhẹ, mùa thu, mùa đông hoặc thời tiết mát.",
+        "longevity": "Khoảng 5–7 giờ (tùy cơ địa).",
+        "sillage": "Vừa, ấm gần da, không quá nồng.",
+        "ingredients": "Alcohol Denat., Parfum, Aqua, vv."
+      },
+      "notes": "Harvest Light có sắc ấm hơn các mùi còn lại, phù hợp với thời tiết mát hoặc những ai thích mùi hương có cảm giác ôm ấp, dễ chịu.",
+      "images": {
+        "hero": "/assets/harvest-light-hero.png",
+        "angle34": "/assets/harvest-light-34.png",
+        "elevated": "/assets/harvest-light-elevated.png",
+        "hand": "/assets/harvest-light-hand.png"
+      }
+    },
+    {
+      "id": "areca-whisper",
+      "name": "Areca Whisper",
+      "slug": "areca-whisper",
+      "shortDescription": "Mùi hương dịu nhẹ và hoài niệm, lấy cảm hứng từ hoa cau – một mùi hương thanh, trắng và kín đáo trong ký ức Việt Nam. Sản phẩm mang cảm giác nữ tính nhẹ, thanh thoát và mềm mại.",
+      "scentMood": "Delicate. Luminous. Nostalgic.",
+      "scentStory": "Hoa cau không phải mùi hương rực rỡ hay dễ nhận ra ngay lập tức. Nó thoảng nhẹ, kín đáo, nhưng rất gợi nhớ. Areca Whisper là mùi hương của những điều không cần nói quá nhiều: một khoảng sân yên, một buổi chiều nhẹ, một cảm giác trong trẻo và thân thuộc.",
+      "suitableFor": "Người thích mùi hoa trắng nhẹ, không quá nồng, không quá ngọt. Phù hợp với phong cách nữ tính, thanh lịch, tối giản và có chút hoài niệm.",
+      "usageOccasion": "Đi học, đi làm, gặp bạn bè, hẹn cà phê, những ngày muốn có một mùi hương dịu dàng và tinh tế.",
+      "productType": "Nước hoa cá nhân dạng xịt (Nồng độ: Eau de Parfum).",
+      "size": "50ml",
+      "price": 690000,
+      "formattedPrice": "690.000 VNĐ",
+      "productInfo": {
+        "family": "Soft White Floral Musk (Hoa trắng – phấn nhẹ – musk mềm).",
+        "topNotes": "hoa trắng nhẹ, lá xanh mỏng, sương sớm.",
+        "heartNotes": "hoa cau, cánh hoa mềm, phấn nhẹ.",
+        "baseNotes": "musk trắng, gỗ nhẹ, kem mềm.",
+        "feel": "Thanh thoát, dịu dàng và kín đáo. Nhẹ nhưng có nét riêng biệt độc đáo. Thích hợp dùng ban ngày, chiều nhẹ, mùa xuân, mùa hè khi thời tiết mát.",
+        "longevity": "Khoảng 4–6 giờ (tùy cơ địa).",
+        "sillage": "Nhẹ đến vừa, gần gũi và tinh tế.",
+        "ingredients": "Alcohol Denat., Parfum, Aqua, vv."
+      },
+      "notes": "Areca Whisper là mùi hương nhẹ và kín đáo, phù hợp với người thích nước hoa thanh thoát, không quá nổi bật nhưng vẫn có dấu ấn riêng.",
+      "images": {
+        "hero": "/assets/areca-whisper-hero.png",
+        "angle34": "/assets/areca-whisper-34.png",
+        "elevated": "/assets/areca-whisper-elevated.png",
+        "hand": "/assets/areca-whisper-hand.png"
+      }
+    }
+  ],
+  "scentAdvisory": {
+    "primaryTitle": "Tìm kiếm ngôn ngữ hương thơm của riêng bạn",
+    "secondaryTitle": "Hãy để NOMA lắng nghe câu chuyện của bạn",
+    "body": "Mùi hương của NOMA mang đậm tính cá nhân và có thể thay đổi cảm nhận tùy thuộc vào làn da, nhiệt độ cơ thể và thói quen xịt của bạn. Để tìm được một sắc thái phù hợp nhất với tâm trạng và phong cách sống của mình, hãy chia sẻ cùng NOMA.",
+    "cta": "Nhắn NOMA tư vấn"
+  },
+  "cart": {
+    "title": "Giỏ hàng của bạn",
+    "shippingNote": "Phí vận chuyển dự kiến hiển thị theo khu vực (Nội thành: 25.000 VNĐ | Ngoại thành: 35.000 VNĐ | Tỉnh cùng miền: 40.000 VNĐ | Tỉnh khác miền: 45.000 VNĐ).",
+    "processNote": "Sau khi bạn hoàn tất thông tin đặt hàng, NOMA sẽ tiếp nhận và xác nhận đơn trong vòng 24 giờ qua thông tin liên hệ bạn đã cung cấp. Đơn hàng chỉ được xử lý sau khi được xác nhận đầy đủ thông tin.",
+    "emptyMessage": "Giỏ hàng của bạn đang trống."
+  },
+  "checkout": {
+    "title": "Thông tin đặt hàng",
+    "thankYou": {
+      "title": "Cảm ơn bạn đã đặt hàng tại NOMA.",
+      "body": "NOMA sẽ kiểm tra thông tin đơn hàng và liên hệ xác nhận trong vòng 24 giờ kể từ thời điểm bạn đặt đơn. Đơn hàng sẽ được tiến hành chuẩn bị, đóng gói và bàn giao cho đơn vị vận chuyển ngay sau khi xác nhận thành công.",
+      "bankNote": "NOMA sẽ gửi thông tin tài khoản ngân hàng chính thức kèm mã đơn hàng. Sản phẩm sẽ được giữ trong vòng 24 giờ đợi ghi nhận chuyển khoản thành công."
+    }
+  },
+  "policies": [
+    {
+      "id": "mua-hang",
+      "title": "Chính sách mua hàng",
+      "content": "Kênh chính thức: Website (nomafragrance.com), Fanpage Facebook (NOMA Fragrance), Email (nomacustomersupport@gmail.com). Quy trình xác nhận đơn hàng bắt buộc diễn ra trong vòng 24 giờ thông qua nhân viên chăm sóc khách hàng. Điều kiện thay đổi thông tin hoặc hủy đơn: Chỉ được hỗ trợ trước khi đơn hàng được bàn giao cho đơn vị vận chuyển."
+    },
+    {
+      "id": "thanh-toan",
+      "title": "Chính sách thanh toán",
+      "content": "Đơn vị tiền tệ duy nhất: Việt Nam Đồng (VNĐ). Quy định thời hạn: Đơn chuyển khoản ngân hàng sẽ được giữ sản phẩm trong vòng 24 giờ, quá thời gian này đơn hàng sẽ bị tạm hủy trên hệ thống để bảo đảm tồn kho công bằng. Cam kết bảo mật: NOMA tuyệt đối không bao giờ yêu cầu khách cung cấp thông tin bảo mật cá nhân như Mật khẩu ngân hàng, mã OTP hoặc mã PIN."
+    },
+    {
+      "id": "van-chuyen",
+      "title": "Chính sách vận chuyển",
+      "content": "Bảng phí vận chuyển cố định: Nội thành (25k), Ngoại thành (35k), Tỉnh cùng miền (40k), Tỉnh khác miền (45k). Khu vực đặc biệt/huyện đảo sẽ có thông báo xác nhận riêng. Chính sách miễn phí vận chuyển: Đơn từ 2 chai miễn ship nội thành; Đơn từ 3 chai miễn ship toàn quốc (trừ khu vực đặc biệt). Thời gian dự kiến giao: Nội thành (1-2 ngày), Ngoại thành (2-3 ngày), Cùng miền (2-4 ngày), Khác miền (3-6 ngày). Phí dịch vụ đóng gói tặng quà nâng cao: 39.000 VNĐ / hộp quà. Lưu ý nhận hàng: Kiểm tra tình trạng móp méo bên ngoài trước khi nhận; không mở seal hay xịt thử sản phẩm trước khi hoàn tất nhận hàng từ shipper. Liên hệ trong 24h nếu phát hiện hàng vỡ, rò rỉ chất lỏng."
+    },
+    {
+      "id": "doi-tra",
+      "title": "Chính sách đổi trả và hoàn tiền",
+      "content": "Thời gian tiếp nhận: Trong vòng 24h đối với hư hỏng vận chuyển, giao sai mùi; trong vòng 3 ngày đối với lỗi kỹ thuật từ nhà sản xuất (vòi xịt lỗi, thân chai nứt...). Điều kiện bắt buộc: Sản phẩm phải còn đầy đủ bao bì, hộp, chưa mở seal, chưa xịt thử và khách hàng phải cung cấp hình ảnh/video mở hộp xác minh rõ ràng. Trường hợp từ chối đổi trả: Không đổi trả do khách thay đổi sở thích mùi hương cá nhân, đặt nhầm mùi hoặc cảm nhận mùi hương không giống kỳ vọng chủ quan. Phương thức hoàn tiền: Hoàn tiền qua chuyển khoản ngân hàng từ 3–7 ngày làm việc sau khi xác minh đơn hàng hoàn trả đạt chuẩn. NOMA chịu 100% phí ship đổi trả nếu lỗi thuộc về thương hiệu hoặc vận chuyển."
+    },
+    {
+      "id": "bao-mat",
+      "title": "Chính sách bảo mật thông tin",
+      "content": "Phạm vi thu thập dữ liệu: Họ tên, SĐT, Địa chỉ, Email, lịch sử mua hàng và nội dung tư vấn mùi hương. Mục đích: Chỉ sử dụng dữ liệu để xác nhận đơn, giao hàng, hỗ trợ đổi trả, tư vấn chọn mùi và gửi ưu đãi (nếu khách đồng ý). Chia sẻ dữ liệu: Chỉ chia sẻ giới hạn thông tin cần thiết với đơn vị vận chuyển, ngân hàng giao dịch hoặc đơn vị kỹ thuật vận hành website trong phạm vi cần thiết để hoàn tất dịch vụ. Khuyến cáo bảo mật fanpage: Khách hàng tuyệt đối không công khai số điện thoại, địa chỉ nhận hàng tại phần bình luận công khai mà nên gửi qua tin nhắn riêng."
+    }
+  ],
+  "footer": {
+    "copyright": "© 2026 NOMA Fragrance. All rights reserved.",
+    "website": "nomafragrance.com",
+    "social": {
+      "facebook": "NOMA Fragrance",
+      "email": "nomacustomersupport@gmail.com"
+    }
+  }
+}
