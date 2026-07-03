@@ -12,12 +12,13 @@ export default function Layout() {
   }, [pathname]);
 
   return (
-  <div className="flex flex-col min-h-screen">
-    <Header />
-    <main className="flex-grow pt-24 lg:pt-32">
-      <Outlet />
-    </main>
-    <Footer />
-    <NomaChatbot />
-  </div>
-);
+    <div className="flex flex-col min-h-screen">
+      <Header />
+      <main className="flex-grow pt-24 lg:pt-32">
+        <Outlet />
+      </main>
+      <Footer />
+      <NomaChatbot />
+    </div>
+  );
+}
